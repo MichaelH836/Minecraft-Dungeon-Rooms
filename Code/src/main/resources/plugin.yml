@@ -1,0 +1,6 @@
+name: DungeonRooms
+author: Michael Herron
+main: me.michaelherron.DungeonRooms
+version: 0.1
+api-version: 1.20
+description: A plugin which will create custom dungeons by procedurally generating pre-built structures
